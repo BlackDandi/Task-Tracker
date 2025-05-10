@@ -16,7 +16,7 @@ Simple CLI app to track your tasks and manage your to-do list.
 ## 🔧Instalation
   1.Clone the repository:
     
-    clone link https://github.com/BlackDandi/Task-Tracker.git
+    git clone https://github.com/BlackDandi/Task-Tracker.git
     cd src
     
     
@@ -52,7 +52,7 @@ Aplicación CLI simple para un seguimiento de sus tareas y administrar su lista 
 ## 🔧Instalacion
   1.Clonar el repositorio
   
-    link clon https://github.com/BlackDandi/Task-Tracker.git
+    git clone https://github.com/BlackDandi/Task-Tracker.git
     cd src
     
   2.Complilar archivo de java principal
