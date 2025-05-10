@@ -131,15 +131,15 @@ public class ComandServices {
         }
     }
     public void ComandList(){
-        System.out.println("java Task_CLI list");
-        System.out.println("java Task_CLI list <done>");
-        System.out.println("java Task_CLI list <todo>");
-        System.out.println("java Task_CLI list <in-progress>");
-        System.out.println("java Task_CLI add <description>");
-        System.out.println("java Task_CLI update <id> <description>");
-        System.out.println("java Task_CLI delete <id> <description>");
-        System.out.println("java Task_CLI mark-done <id>");
-        System.out.println("java Task_CLI mark-in-progress <id>");
+        System.out.println("java Task_CLI list (Command to listen all task");
+        System.out.println("java Task_CLI list <done> (Command to list all done)");
+        System.out.println("java Task_CLI list <todo> (Command to list all todo)");
+        System.out.println("java Task_CLI list <in-progress> (Command to list all in-progress)");
+        System.out.println("java Task_CLI add <description> (Command to add task)");
+        System.out.println("java Task_CLI update <id> <description> (Command to update task)");
+        System.out.println("java Task_CLI delete <id> (Command to delete task)");
+        System.out.println("java Task_CLI mark-done <id> (Command to mark done a task)");
+        System.out.println("java Task_CLI mark-in-progress <id> (Command to mark in-progress a task)");
     }
 
 }
